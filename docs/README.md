@@ -1,4 +1,4 @@
-[![N|Solid](codecamp-2020.github.io/images/CC.jpg)](https://codecamp-2020.eventbrite.com)
+[![N|Solid](../images/CC.jpg)](https://codecamp-2020.eventbrite.com)
 
 # Code Camp - 2020
 ```
