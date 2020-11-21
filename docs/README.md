@@ -1,6 +1,5 @@
 ![image](./CC.jpg)
 
-# Code Camp - 2020
 ```
 Comparte | Aprende | Desarrolla
 ```
