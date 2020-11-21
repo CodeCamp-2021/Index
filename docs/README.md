@@ -32,8 +32,8 @@ Gracias al aporte de nuestros patrocinadores, este evento será **totalmente GRA
 
 Estas son algunas consideraciones especiales:
 
-### Parqueo
-Esta vez no tendremos parqueo de cortesía, recomendamos usar Uber o ya sea parquear a los alrededores de 4 grados norte.
+### Web browser
+Utilizar Chrome o Mozilla Firefox.
 
 # ¿Dudas? 
 Para más información y registro de este evento click [aqui](https://codecamp-2020.eventbrite.com).  
