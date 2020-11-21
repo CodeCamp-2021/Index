@@ -1,4 +1,4 @@
-[![N|Solid](./CC.jpg)](https://codecamp-2020.eventbrite.com)
+![image](./CC.jpg)
 
 # Code Camp - 2020
 ```
