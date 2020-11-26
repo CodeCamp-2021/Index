@@ -14,25 +14,8 @@ Para obtener más información específica sobre la agenda y presentaciones, con
 * [Agenda](Agenda.md)
 * [Presentaciones](Presentaciones/README.md)
 
-# Sponsors
-Un agradecimiento especial a nuestros patrocinadores, sin ellos este evento no sería posible.
 
-## Locales
-* [Datum](https://www.datum.com.gt/)  
-Empresa de consultoría especializada en plataformas cloud: DevOps, infraestructura como código, contenedores y bases de datos.
-
-## Internacionales
-* [RedGate](https://www.red-gate.com)  
-Redgate Software is a software company based in Cambridge, England. It develops tools for developers and data professionals and maintains community websites such as SQL Server Central and Simple Talk. 
-
-
-# Logística 
-Gracias al aporte de nuestros patrocinadores, este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento!
-
-Estas son algunas consideraciones especiales:
-
-### Web browser
-Utilizar Chrome o Mozilla Firefox.
+Este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento via YouTube o Facebook live.
 
 # ¿Dudas? 
 Para más información y registro de este evento click [aqui](https://codecamp-2020.eventbrite.com).  
