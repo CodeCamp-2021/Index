@@ -16,12 +16,6 @@ Hora | Sesion | Speaker | Track | Link de Stream
 10:15 am - 11:15 am GMT-6 | --| -- | [Cloud](#Cloud) | xy
 11:15 am - 12:15 pm GMT-6 | --| -- | [Cloud](#Cloud) | xy
 
-14:00 pm - 15:00 pm GMT-6 | --| -- | [Cloud](#Cloud) | xy
-16:00 pm - 17:00 pm GMT-6 | --| -- | [Cloud](#Cloud) | xy
-17:00 pm - 18:00 pm GMT-6 | --| -- | [Cloud](#Cloud) | xy
-18:00 pm - 19:00 pm GMT-6 | --| -- | [Cloud](#Cloud) | xy
-
-
 ## Foro de Emprendimiento
 Hora | Actividad | Link de Stream
 --- | --- | ---
