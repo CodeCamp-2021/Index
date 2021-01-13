@@ -8,7 +8,6 @@ Code Camp es un evento virtual organizado por la comunidad [Microsoft Dev Group 
 
 Nuestro objetivo es mejorar tus habilidades técnicas preparándote para el éxito con las herramientas adecuadas, ya sea para mejorar en tu trabajo actual, o prepararte para tu siguiente reto profesional.
 
-Gracias al apoyo de la comunidad [Guatemala SQL Server User Group](https://www.facebook.com/groups/gtssug/).
 
 Para obtener más información específica sobre la agenda y presentaciones, consulta acá:
 * [Agenda](Agenda.md)
@@ -18,7 +17,7 @@ Para obtener más información específica sobre la agenda y presentaciones, con
 Este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento via YouTube o Facebook live.
 
 # ¿Dudas? 
-Para más información y registro de este evento click [aqui](https://codecamp-2020.eventbrite.com).  
+Para más información y registro de este evento click [aqui](https://codecamp-2021.eventbrite.com).  
 Seguinos en [Facebook](https://www.facebook.com/groups/MsDevGroupCoban) para conocer más acerca de este y otros eventos.
 
 # Siguenos
