@@ -13,11 +13,11 @@ Para obtener más información específica sobre la agenda y presentaciones, con
 * [Agenda](Agenda.md)
 * [Presentaciones](Presentaciones/README.md)
 
-
 Este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento via YouTube o Facebook live.
+Para más información y registro de este evento click [aqui](https://codecamp-2021.eventbrite.com).  
 
 # ¿Dudas? 
-Para más información y registro de este evento click [aqui](https://codecamp-2021.eventbrite.com).  
+
 Seguinos en [Facebook](https://www.facebook.com/groups/MsDevGroupCoban) para conocer más acerca de este y otros eventos.
 
 # Siguenos
