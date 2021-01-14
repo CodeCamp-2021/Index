@@ -1,4 +1,5 @@
-![Header](images/CC.jpg)
+![image](./CC.jpg)
+
 # CodeCamp-2021
 ```
 Comparte | Aprende | Desarrolla
