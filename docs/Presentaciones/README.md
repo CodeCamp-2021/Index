@@ -1,13 +1,20 @@
+---
+layout: default
+title: "Code Camp 2021 - Presentaciones"
+tagline: Comparte | Aprende | Desarrolla
+---
+
 ![image](./images/CC.jpg)
 
 ```
-Comparte | Aprende | Desarrolla
+| Comparte | Aprende | Desarrolla |
+|:---------|:--------|:-----------|
 ```
 
 # Presentaciones
 
-Sesion | Speaker
---- | --- 
+| Sesion | Speaker |
+|:-------|:--------|
 
 
 # ¿Dudas? 
