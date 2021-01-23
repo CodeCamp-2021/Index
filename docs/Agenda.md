@@ -11,6 +11,7 @@ tagline: Comparte | Aprende | Desarrolla
 Comparte | Aprende | Desarrolla
 ```
 # Agenda
+> *Por favor tomar nota, todas las horas estan en GMT-6*
 ## Apertura
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
