@@ -24,11 +24,15 @@ Comparte | Aprende | Desarrolla
 | 11:15 | Git con el pie derecho| Marcos Cano | [Development](#Development) | [YouTube]()
 | 11:15 |  Desarrollo de Blazor WebAssembly en .NET 5 | Eduardo Barrios | [Development](#Development) | [YouTube]()  
 
+****  
+
 ## Sesiones - Bloque PM
 ## Foro
 | Hora | Actividad | Stream
 |:-----|:----------|:---------------|
-12:15 | Business Coaching para Startups | [YouTube]()  
+12:15 | Business Coaching para Startups | [YouTube]() 
+
+****  
 
 | Hora | Sesion | Speaker | Track | Stream |
 |:-----|:-------|:--------|:------|:---------------|
