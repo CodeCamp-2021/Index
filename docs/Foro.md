@@ -4,18 +4,13 @@ title: "Code Camp 2021 - Agenda"
 tagline: Comparte | Aprende | Desarrolla
 ---
 
-![image](./CC.jpg)
+![image](./files/BCPS2.jpg)
 
 # CodeCamp-2021
 ```
 Comparte | Aprende | Desarrolla
 ```
 # Foro - Bussines coaching para startups  
-
-
-<Info goes here>
-
-![image](./BCPS2.jpg)
 
 ****  
 
