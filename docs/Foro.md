@@ -15,7 +15,7 @@ Comparte | Aprende | Desarrolla
 
 <Info goes here>
 
-![image](./images/BCPS2.jpg)
+![image](./BCPS2.jpg)
 
 ****  
 
