@@ -14,7 +14,9 @@ Comparte | Aprende | Desarrolla
 ## Apertura
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
-09:00| Palabras de bienvenida / Agenda | [YouTube]()
+09:00| Palabras de bienvenida / Agenda | [YouTube]()  
+
+****  
 
 ## Sesiones - Bloque AM
 | Hora | Sesion | Speaker | Track | Stream
@@ -42,12 +44,16 @@ Comparte | Aprende | Desarrolla
 | 16:00 | TypeScript para principiantes| Marlon Coti | [Development](#Development) | [YouTube]()
 | 17:00 | Monitoreo de aplicaciones web con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube]()
 | 17:00 | Uso de MicroPython para aplicaciones IoT| Eduardo Pivaral | [IoT](#IoT) | [YouTube]()
-| 18:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube]()
+| 18:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube]()  
+
+****  
 
 ## Cierre
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
 | 19:00 | Agradecimientos / Rifa | [YouTube]()
+
+****  
 
 # Tracks
 ## Cloud
