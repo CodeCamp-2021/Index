@@ -17,7 +17,8 @@ Nuestro objetivo es mejorar tus habilidades técnicas preparándote para el éxi
 
 Para obtener más información específica sobre la agenda y presentaciones, consulta acá:
 * [Agenda](Agenda.md)
-* [Presentaciones](Presentaciones/README.md)
+* [Business Coaching para Startups](Foro.md)
+* [Presentaciones](Presentaciones.md)
 
 Este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento via YouTube o Facebook live.
 Para más información y registro de este evento click [aqui](https://codecamp-2021.eventbrite.com).  
