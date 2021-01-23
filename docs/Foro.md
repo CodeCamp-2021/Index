@@ -4,7 +4,7 @@ title: "Code Camp 2021 - Agenda"
 tagline: Comparte | Aprende | Desarrolla
 ---
 
-![image](./files/BCPS2.jpg)
+![image](./Files/BCPS2.jpg)
 
 # CodeCamp-2021
 ```
