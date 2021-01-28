@@ -42,7 +42,7 @@ Comparte | Aprende | Desarrolla
 | 14:00 | Mejorando tu código con programacion avanzada en Python| Hugo Estrada S. | [AI](#AI) | [YouTube]()
 | 14:00 | Uso de Azure Functions Core Tools| Jose Ordonez | [Cloud](#Cloud) | [YouTube]()
 | 16:00 | Tu primer gran proyecto de Machine Learning| Alvin Estrada | [AI](#AI) | [YouTube]()
-| 16:00 | TypeScript para principiantes| Marlon Coti | [Development](#Development) | [YouTube]()
+| 16:00 | TypeScript para Nuevos Programadores| Marlon Coti | [Development](#Development) | [YouTube]()
 | 17:00 | Monitoreo de aplicaciones web con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube]()
 | 17:00 | Uso de MicroPython para aplicaciones IoT| Eduardo Pivaral | [IoT](#IoT) | [YouTube]()
 | 18:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube]()  
