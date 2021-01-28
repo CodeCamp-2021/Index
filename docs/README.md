@@ -1,9 +1,3 @@
----
-layout: default
-title: "Code Camp 2021"
-tagline: Comparte | Aprende | Desarrolla
----
-
 ![image](./CC.jpg)
 
 ```
