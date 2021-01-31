@@ -1,4 +1,5 @@
-![image](./docs/CC.jpg)
+permalink: /
+![image](./CC.jpg)
 
 # CodeCamp-2021
 ```
