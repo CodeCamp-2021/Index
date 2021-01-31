@@ -13,7 +13,7 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
-| 09:00 | Palabras de bienvenida / Agenda | [YouTube]() 
+| 09:00 | Palabras de bienvenida / Agenda | [YouTube](){:target="_blank"} 
 
 ****  
 
@@ -23,10 +23,10 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Sesion | Speaker | Track | Stream |
 |:-----|:-------|:--------|:------|:--------------- |
-| 09:15 | CI/CD en Kubernetes con Jenkins y ArgoCD| Sergio Mendez | [DevOps](#DevOps) | [YouTube]()
-| 10:15 | Codifica tu infraestructura desde cero con Terraform| Yolanda Lopez | [DevOps](#DevOps) | [YouTube]()
-| 11:15 | Git con el pie derecho| Marcos Cano | [Development](#Development) | [YouTube]()
-| 11:15 |  Desarrollo de Blazor WebAssembly en .NET 5 | Eduardo Barrios | [Development](#Development) | [YouTube]()  
+| 09:15 | CI/CD en Kubernetes con Jenkins y ArgoCD| Sergio Mendez | [DevOps](#DevOps) | [YouTube](https://youtu.be/R1heBMzHBUA){:target="_blank"}
+| 10:15 | Codifica tu infraestructura desde cero con Terraform| Yolanda Lopez | [DevOps](#DevOps) | [YouTube](https://youtu.be/1NEDyznePfs){:target="_blank"}
+| 10:15 | Desarrollo de Blazor WebAssembly en .NET 5 | Eduardo Barrios | [Development](#Development) | [YouTube](https://youtu.be/c8uq_IQ31GQ){:target="_blank"}  
+| 11:15 | Git con el pie derecho| Marcos Cano | [Development](#Development) | [YouTube](https://youtu.be/k3ywZadp3gQ){:target="_blank"}
 
 ****  
 
@@ -37,7 +37,7 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Actividad | Stream |
 |:-----|:----------|:---------------|
-| 12:15 | Business Coaching para Startups | [YouTube]() 
+| 12:15 | Pendiente | [YouTube](){:target="_blank"} 
 
 ****  
 
@@ -45,13 +45,14 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Sesion | Speaker | Track | Stream |
 |:-----|:-------|:--------|:------|:---------------|
-| 14:00 | Mejorando tu código con programacion avanzada en Python| Hugo Estrada S. | [AI](#AI) | [YouTube]()
-| 14:00 | Uso de Azure Functions Core Tools| Jose Ordonez | [Cloud](#Cloud) | [YouTube]()
-| 16:00 | Tu primer gran proyecto de Machine Learning| Alvin Estrada | [AI](#AI) | [YouTube]()
-| 16:00 | TypeScript para principiantes| Marlon Coti | [Development](#Development) | [YouTube]()
-| 17:00 | Monitoreo de aplicaciones web con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube]()
-| 17:00 | Uso de MicroPython para aplicaciones IoT| Eduardo Pivaral | [IoT](#IoT) | [YouTube]()
-| 18:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube]()  
+| 14:00 | Mejorando tu código con programacion avanzada en Python| Hugo Estrada S. | [AI](#AI) | [YouTube](https://youtu.be/IPy_FqKgZfo){:target="_blank"}
+| 14:00 | Uso de Azure Functions Core Tools| Jose Ordonez | [Cloud](#Cloud) | [YouTube](https://youtu.be/vtAKCn82_F0){:target="_blank"}
+| 15:00 | Tu primer gran proyecto de Machine Learning| Alvin Estrada | [AI](#AI) | [YouTube](https://youtu.be/NoHdbsb0Xq8){:target="_blank"}
+| 15:00 | TypeScript para principiantes| Marlon Coti | [Development](#Development) | [YouTube](https://youtu.be/jPSNmrcJP38){:target="_blank"}
+| 16:00 | Monitoreo de aplicaciones web con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube](https://youtu.be/na0XcQQkJOk){:target="_blank"}
+| 16:00 | Uso de MicroPython para aplicaciones IoT| Eduardo Pivaral | [IoT](#IoT) | [YouTube](https://youtu.be/W8BQD-riHWY){:target="_blank"}
+| 17:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube](https://www.youtube.com/watch?v=4bDmxwtbL74){:target="_blank"}  
+| 17:00 | No SQL para Programadores .NET| Vicente Suc | [Development](#Development) | [YouTube](https://youtu.be/1IMVcspA38I){:target="_blank"}  
 
 ****  
 
@@ -61,7 +62,7 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
-| 19:00 | Agradecimientos / Rifa | [YouTube]()
+| 18:00 | Agradecimientos / Rifa | [YouTube](){:target="_blank"}
 
 ****  
 
