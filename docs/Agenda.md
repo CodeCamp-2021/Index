@@ -5,16 +5,23 @@
 Comparte | Aprende | Desarrolla
 ```
 # Agenda
-> *Por favor tomar nota, todas las horas estan en GMT-6*
+    Por favor tomar nota, todas las horas estan en GMT-6*
+
 ## Apertura
+
+****  
+
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
-| 09:00| Palabras de bienvenida / Agenda | [YouTube]() 
+| 09:00 | Palabras de bienvenida / Agenda | [YouTube]() 
 
 ****  
 
 ## Sesiones - Bloque AM
-| Hora | Sesion | Speaker | Track | Stream | 
+
+****  
+
+| Hora | Sesion | Speaker | Track | Stream |
 |:-----|:-------|:--------|:------|:--------------- |
 | 09:15 | CI/CD en Kubernetes con Jenkins y ArgoCD| Sergio Mendez | [DevOps](#DevOps) | [YouTube]()
 | 10:15 | Codifica tu infraestructura desde cero con Terraform| Yolanda Lopez | [DevOps](#DevOps) | [YouTube]()
@@ -25,9 +32,14 @@ Comparte | Aprende | Desarrolla
 
 ## Sesiones - Bloque PM
 ## Foro
+
+****  
+
 | Hora | Actividad | Stream |
 |:-----|:----------|:---------------|
 | 12:15 | Business Coaching para Startups | [YouTube]() 
+
+****  
 
 ****  
 
@@ -44,6 +56,9 @@ Comparte | Aprende | Desarrolla
 ****  
 
 ## Cierre
+
+****  
+
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
 | 19:00 | Agradecimientos / Rifa | [YouTube]()
