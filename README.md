@@ -1,3 +1,4 @@
+permalink: /
 ![image](./CC.jpg)
 
 ```

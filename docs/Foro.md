@@ -1,9 +1,3 @@
----
-layout: default
-title: "Code Camp 2021 - Agenda"
-tagline: Comparte | Aprende | Desarrolla
----
-
 ![image](./Files/BCPS2.jpg)
 
 # CodeCamp-2021

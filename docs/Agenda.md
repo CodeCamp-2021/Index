@@ -1,9 +1,3 @@
----
-layout: default
-title: "Code Camp 2021 - Agenda"
-tagline: Comparte | Aprende | Desarrolla
----
-
 ![image](./CC.jpg)
 
 # CodeCamp-2021
