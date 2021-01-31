@@ -1,4 +1,6 @@
+permalink: /
 ![image](./CC.jpg)
+
 # CodeCamp-2021
 ```
 Comparte | Aprende | Desarrolla
