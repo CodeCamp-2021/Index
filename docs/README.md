@@ -18,9 +18,20 @@ Para obtener más información específica sobre la agenda y presentaciones, con
 Este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento via YouTube o Facebook live.
 Para más información y registro de este evento click [aqui](https://codecamp-2021.eventbrite.com).  
 
+
+# Sponsors
+
+Un agradecimiento especial a nuestros patrocinadores, sin ellos este evento no sería posible.
+
+* [RedGate](https://www.red-gate.com)  
+Redgate Software es una empresa de software con sede en Cambridge, Inglaterra. Desarrolla herramientas para desarrolladores y profesionales de datos y mantiene sitios web comunitarios como SQL Server Central y Simple Talk. 
+
+* [O'Reilly](https://www.oreilly.com/)  
+O'Reilly Media, antes llamada O'Reilly & Associates, es una empresa editorial estadounidense fundada y dirigida por Tim O'Reilly que está principalmente enfocada a libros de tecnología e informática. Usa como distintivo en sus portadas diferentes animales, como un camello, un mouse o una llama.
+
 # ¿Dudas? 
 
 Seguinos en [Facebook](https://www.facebook.com/groups/MsDevGroupCoban) para conocer más acerca de este y otros eventos.
 
 # Siguenos
-[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_github_circle_black_107161.png)](https://github.com/msdgc)[![N|Solid](http://dbamastery.com/wp-content/uploads/2018/08/if_browser_1055104.png)](https://www.facebook.com/groups/MsDevGroupCoban)
+[![N|Solid](./Files/github.webp)](https://github.com/msdgc)[![N|Solid](./Files/fb.webp)](https://www.facebook.com/groups/MsDevGroupCoban)
