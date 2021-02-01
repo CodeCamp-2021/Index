@@ -26,7 +26,7 @@ Un agradecimiento especial a nuestros patrocinadores, sin ellos este evento no s
 * [RedGate](https://www.red-gate.com)  
 Redgate Software es una empresa de software con sede en Cambridge, Inglaterra. Desarrolla herramientas para desarrolladores y profesionales de datos y mantiene sitios web comunitarios como SQL Server Central y Simple Talk.
 
-    ![image](./Files/redgatev2.png) 
+    ![image](./Files/redgate-v2.png) 
 
 * [O'Reilly](https://www.oreilly.com/)  
 O'Reilly Media, antes llamada O'Reilly & Associates, es una empresa editorial estadounidense fundada y dirigida por Tim O'Reilly que está principalmente enfocada a libros de tecnología e informática. Usa como distintivo en sus portadas diferentes animales, como un camello, un mouse o una llama.
