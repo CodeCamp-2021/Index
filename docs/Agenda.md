@@ -5,7 +5,7 @@
 Comparte | Aprende | Desarrolla
 ```
 # Agenda
-    Por favor tomar nota, todas las horas estan en GMT-6*
+    Por favor tomar nota, todas las horas estan en GMT-6
 
 ## Apertura
 
@@ -49,7 +49,7 @@ Comparte | Aprende | Desarrolla
 | 14:00 | Uso de Azure Functions Core Tools| Jose Ordonez | [Cloud](#Cloud) | [YouTube](https://youtu.be/vtAKCn82_F0){:target="_blank"}
 | 15:00 | Tu primer gran proyecto de Machine Learning| Alvin Estrada | [AI](#AI) | [YouTube](https://youtu.be/NoHdbsb0Xq8){:target="_blank"}
 | 15:00 | TypeScript para principiantes| Marlon Coti | [Development](#Development) | [YouTube](https://youtu.be/jPSNmrcJP38){:target="_blank"}
-| 16:00 | Monitoreo de aplicaciones web con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube](https://youtu.be/na0XcQQkJOk){:target="_blank"}
+| 16:00 | Monitoreo de WebApps con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube](https://youtu.be/na0XcQQkJOk){:target="_blank"}
 | 16:00 | Uso de MicroPython para aplicaciones IoT| Eduardo Pivaral | [IoT](#IoT) | [YouTube](https://youtu.be/W8BQD-riHWY){:target="_blank"}
 | 17:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube](https://www.youtube.com/watch?v=4bDmxwtbL74){:target="_blank"}  
 | 17:00 | No SQL para Programadores .NET| Vicente Suc | [Development](#Development) | [YouTube](https://youtu.be/1IMVcspA38I){:target="_blank"}  
