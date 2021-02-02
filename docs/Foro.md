@@ -1,10 +1,8 @@
-![image](./Files/BCPS2.jpg)
-
 # Code Camp 2021
 ```
 Comparte | Aprende | Desarrolla
 ```
-# Foro - Bussines coaching para startups  
+# Foro - Aprendizaje moderno en plataformas virtuales 
 
 ****  
 
