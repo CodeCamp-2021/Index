@@ -1,5 +1,4 @@
-![image](./CC.jpg)
-
+![Header](./CC.jpg)
 # Code Camp 2021
 ```
 Comparte | Aprende | Desarrolla
@@ -23,9 +22,10 @@ Para más información y registro de este evento click [aqui](https://codecamp-2
 Un agradecimiento especial a nuestros patrocinadores, sin ellos este evento no sería posible.
 
 * [RedGate](https://www.red-gate.com)  
-Redgate Software es una empresa de software con sede en Cambridge, Inglaterra. Desarrolla herramientas para desarrolladores y profesionales de datos y mantiene sitios web comunitarios como SQL Server Central y Simple Talk.
+Redgate Software es una empresa de software con sede en Cambridge, Inglaterra. Desarrolla herramientas para desarrolladores y profesionales de datos y mantiene sitios web comunitarios como SQL Server Central y Simple Talk.  
 
-    ![image](./Files/redgate.png) 
+    Te invitamos a registrarte en el proximo Redgate Summit: The future of database DevOps. Solo haz click en la imagen para registrarte.
+    [![N|Solid](./Files/redgate-summit.jpg)](https://www.red-gate.com/hub/events/redgate-summit-the-future-of-database-devops)
 
 * [O'Reilly](https://www.oreilly.com/)  
 O'Reilly Media, antes llamada O'Reilly & Associates, es una empresa editorial estadounidense fundada y dirigida por Tim O'Reilly que está principalmente enfocada a libros de tecnología e informática. Usa como distintivo en sus portadas diferentes animales, como un camello, un mouse o una llama.

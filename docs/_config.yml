@@ -3,3 +3,4 @@ tagline: Comparte - Aprende - Desarrolla
 description: >-
   Comparte - Aprende - Desarrolla
 theme: jekyll-theme-slate
+markdown: kramdown
