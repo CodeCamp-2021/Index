@@ -12,7 +12,6 @@ Nuestro objetivo es mejorar tus habilidades técnicas preparándote para el éxi
 
 Para obtener más información específica sobre la agenda y presentaciones, consulta acá:
 * [Agenda](Agenda.md)
-* [Business Coaching para Startups](Foro.md)
 * [Presentaciones](Presentaciones.md)
 
 Este evento será **totalmente GRATUITO**, así que únicamente tienes que asistir al evento via YouTube o Facebook live.

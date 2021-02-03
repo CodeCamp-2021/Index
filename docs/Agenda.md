@@ -31,15 +31,6 @@ Comparte | Aprende | Desarrolla
 ****  
 
 ## Sesiones - Bloque PM
-## Foro
-
-****  
-
-| Hora | Actividad | Stream |
-|:-----|:----------|:---------------|
-| 12:15 | Pendiente | [YouTube](){:target="_blank"} 
-
-****  
 
 ****  
 
