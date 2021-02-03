@@ -22,7 +22,7 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Sesion | Speaker | Track | Stream |
 |:-----|:-------|:--------|:------|:--------------- |
-| 09:15 | CI/CD en Kubernetes con Jenkins y ArgoCD| Sergio Mendez | [DevOps](Agenda.md#cloud) | [YouTube](https://youtu.be/R1heBMzHBUA)
+| 09:15 | CI/CD en Kubernetes con Jenkins y ArgoCD| Sergio Mendez | [DevOps](#DevOps) | [YouTube](https://youtu.be/R1heBMzHBUA)
 | 10:15 | Codifica tu infraestructura desde cero con Terraform| Yolanda Lopez | [DevOps](#DevOps) | [YouTube](https://youtu.be/1NEDyznePfs)
 | 10:15 | Desarrollo de Blazor WebAssembly en .NET 5 | Eduardo Barrios | [Development](#Development) | [YouTube](https://youtu.be/c8uq_IQ31GQ) 
 | 11:15 | Git con el pie derecho| Marcos Cano | [Development](#Development) | [YouTube](https://youtu.be/k3ywZadp3gQ)
