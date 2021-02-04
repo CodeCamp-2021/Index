@@ -21,16 +21,31 @@ Para más información y registro de este evento click [aqui](https://codecamp-2
 
 Un agradecimiento especial a nuestros patrocinadores, sin ellos este evento no sería posible.
 
-* [RedGate](https://www.red-gate.com)  
+![image](./Files/redgate.png) 
+
 Redgate Software es una empresa de software con sede en Cambridge, Inglaterra. Desarrolla herramientas para desarrolladores y profesionales de datos y mantiene sitios web comunitarios como SQL Server Central y Simple Talk.  
 
-    Te invitamos a registrarte en el proximo Redgate Summit: The future of database DevOps. Solo haz click en la imagen para registrarte.
-    [![N|Solid](./Files/redgate-summit.jpg)](https://www.red-gate.com/hub/events/redgate-summit-the-future-of-database-devops)
+Te invitamos a registrarte en el proximo Redgate Summit: The future of database DevOps. Solo haz click en la imagen para registrarte.
+[![N|Solid](./Files/redgate-summit-small.jpg)](https://www.red-gate.com/hub/events/redgate-summit-the-future-of-database-devops)
 
-* [O'Reilly](https://www.oreilly.com/)  
-O'Reilly Media, antes llamada O'Reilly & Associates, es una empresa editorial estadounidense fundada y dirigida por Tim O'Reilly que está principalmente enfocada a libros de tecnología e informática. Usa como distintivo en sus portadas diferentes animales, como un camello, un mouse o una llama.
+Para conocer mas sobre Redgate y sus productos, solo haz click en los siguientes links:
+* https://www.red-gate.com
+* https://flywaydb.org/
+* https://twitter.com/redgate 
+* https://twitter.com/FlywayDb
+* https://www.facebook.com/RedGateSoftwareTools
+* https://www.linkedin.com/company/red-gate-software
 
-    ![image](./Files/oreilly.png) 
+![image](./Files/oreilly.png) 
+
+O'Reilly Media es una editorial estadounidense fundada por Tim O'Reilly que se centra principalmente en libros de tecnología e informática. Si bien los libros de O'Reilly son conocidos por los diferentes animales que se utilizan en sus portadas (como un camello, un ratón o una llama), la plataforma de aprendizaje en línea de O'Reilly le brinda acceso a pedido a los últimos libros electrónicos, videos y cursos de capacitación en vivo. , listas de reproducción de expertos y escenarios de aprendizaje interactivo. O'Reilly rastrea a los expertos en los límites de la tecnología emergente, luego comparte sus conocimientos de manera que le resulte más fácil obtener el conocimiento más relevante y actuar en consecuencia.
+
+Para conocer mas sobre Redgate y sus productos, solo haz click en los siguientes links:
+* https://www.oreilly.com  
+* https://twitter.com/oreillymedia  
+* https://www.facebook.com/OReilly  
+* https://www.linkedin.com/company/oreilly-media  
+* https://www.youtube.com/user/OreillyMedia  
 
 # ¿Dudas? 
 
