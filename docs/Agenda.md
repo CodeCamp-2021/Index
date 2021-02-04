@@ -42,7 +42,7 @@ Comparte | Aprende | Desarrolla
 | 16:00 | Monitoreo de WebApps con Azure Insight y Work item Bugs| Elvis Batzibal | [DevOps](#DevOps) | [YouTube](https://youtu.be/na0XcQQkJOk)
 | 16:00 | Uso de MicroPython para aplicaciones IoT| Eduardo Pivaral | [IoT](#IoT) | [YouTube](https://youtu.be/W8BQD-riHWY)
 | 17:00 | Uso practico de Azure SQL DB serverless| Carlos Lopez | [Cloud](#Cloud) | [YouTube](https://www.youtube.com/watch?v=4bDmxwtbL74) 
-| 17:00 | No SQL para Programadores .NET| Vicente Suc | [Development](#Development) | [YouTube](https://youtu.be/1IMVcspA38I)
+| 17:00 | No SQL para programadores .NET| Vicente Suc | [Development](#Development) | [YouTube](https://youtu.be/1IMVcspA38I)
 
 ****  
 
