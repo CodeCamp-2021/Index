@@ -25,7 +25,7 @@ Un agradecimiento especial a nuestros patrocinadores, sin ellos este evento no s
 
 Redgate Software es una empresa de software con sede en Cambridge, Inglaterra. Desarrolla herramientas para desarrolladores y profesionales de datos y mantiene sitios web comunitarios como SQL Server Central y Simple Talk.  
 
-Te invitamos a registrarte en el proximo Redgate Summit: The future of database DevOps. Solo haz click en la imagen para registrarte.
+Te invitamos a registrarte en el proximo Redgate Summit: The future of database DevOps. Solo haz click en la siguiente imagen para registrarte.  
 [![N|Solid](./Files/redgate-summit-small.jpg)](https://www.red-gate.com/hub/events/redgate-summit-the-future-of-database-devops)
 
 Para conocer mas sobre Redgate y sus productos, solo haz click en los siguientes links:
