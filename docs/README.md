@@ -38,10 +38,10 @@ Para conocer mas sobre Redgate y sus productos, solo haz click en los siguientes
 
 ![image](./Files/oreilly.png) 
 
-O'Reilly Media es una editorial estadounidense fundada por Tim O'Reilly que se centra principalmente en libros de tecnología e informática. Si bien los libros de O'Reilly son conocidos por los diferentes animales que se utilizan en sus portadas (como un camello, un ratón o una llama), la plataforma de aprendizaje en línea de O'Reilly le brinda acceso a pedido a los últimos libros electrónicos, videos y cursos de capacitación en vivo. , listas de reproducción de expertos y escenarios de aprendizaje interactivo. O'Reilly rastrea a los expertos en los límites de la tecnología emergente, luego comparte sus conocimientos de manera que le resulte más fácil obtener el conocimiento más relevante y actuar en consecuencia.
+Durante más de 40 años, O’Reilly ha proporcionado formacion tecnologica y empreasial, y conocimiento en la busqueda de ayudar a las empresas a tener éxito. Nuestra red única de expertos e innovadores comparte su conocimiento y experiencia a través de libros, artículos y nuestra plataforma de aprendizaje en línea. El aprendizaje en línea de O’Reilly le brinda acceso bajo demanda a cursos de capacitación en vivo, rutas de aprendizaje en profundidad, entornos de codificación interactivos, materiales de preparación para la certificación y una amplia colección de texto y videos de O’Reilly y más de 200 editores. 
 [![N|Solid](./Files/o-reilly-small.png)](https://www.oreilly.com){:target="_blank"}
 
-Para conocer mas sobre Redgate y sus productos, solo haz click en los siguientes links:
+Para obtener más información, visite cualquiera de los siguientes links:
 * [www.oreilly.com](https://www.oreilly.com){:target="_blank"}
 * [www.twitter.com/oreillymedia](https://twitter.com/oreillymedia){:target="_blank"}
 * [www.facebook.com/OReilly](https://www.facebook.com/OReilly){:target="_blank"}
