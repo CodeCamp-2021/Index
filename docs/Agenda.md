@@ -12,7 +12,7 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
-| 09:00 | Palabras de bienvenida / Agenda | [YouTube](https://youtu.be){:target="_blank"}
+| 09:00 | Palabras de bienvenida / Agenda | [YouTube](https://www.youtube.com/watch?v=BgBn6TAHo2g){:target="_blank"}
 
 ****  
 
@@ -52,7 +52,7 @@ Comparte | Aprende | Desarrolla
 
 | Hora | Actividad | Stream |
 |:-----|:----------|:-------|
-| 18:00 | Agradecimientos / Rifa | [YouTube](https://youtu.be/){:target="_blank"}
+| 18:00 | Agradecimientos / Rifa | [YouTube](https://www.youtube.com/watch?v=B_P2widFYC8){:target="_blank"}
 
 ****  
 
